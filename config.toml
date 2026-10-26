@@ -1,0 +1,4 @@
+[wgpu]
+
+
+use_fifo_vsync = true
